@@ -1,0 +1,1177 @@
+canonical_identifier: bkk:krp/KR3em041/v1
+canonical_location: https://kanripo.org/bkk/KR3em041/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 喉舌備要秘旨
+  identifiers:
+    krp: KR3em041
+  tags:
+    kr-categories: KR3em
+    tls-dates: dat04210
+  source:
+    repository: tls-texts
+    path: data/tls/KR3em041.xml
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 0, filename: KR3em041_000.yaml, hash: 'sha256:731e95e156c8bdf8246cf38a82b7ca691b6090cf1874628438d4b933d8e6a7c1'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3em041_000.markers.yaml, hash: 'sha256:71d96efcf6653b9348a6761c2fa917b5dfbb4f9ca0a286daea460ea2ce7ccea0'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3em041_jc_000-d2.h1s1
+    span:
+    - body
+    - 0
+    - 13470
+  label: 喉部
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em041_jc_000-d2d2
+    span:
+    - body
+    - 2
+    - 529
+  label: 論喉症
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em041_jc_000-d2d3
+    span:
+    - body
+    - 529
+    - 1594
+  label: 喉症總論
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em041_jc_000-d2d4
+    span:
+    - body
+    - 1594
+    - 2293
+  label: 辨喉症經絡治法
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em041_jc_000-d2d5
+    span:
+    - body
+    - 2293
+    - 13470
+  label: 喉科辨症
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em041_jc_000-d2.d5d2
+    span:
+    - body
+    - 2297
+    - 2377
+  label: 雙松虆症
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3em041_jc_000-d2.d5d3
+    span:
+    - body
+    - 2377
+    - 2467
+  label: 單松虆症
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3em041_jc_000-d2.d5d4
+    span:
+    - body
+    - 2467
+    - 2557
+  label: 雙燕子症
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3em041_jc_000-d2.d5d5
+    span:
+    - body
+    - 2557
+    - 2631
+  label: 單燕子症
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3em041_jc_000-d2.d5d6
+    span:
+    - body
+    - 2631
+    - 2734
+  label: 雙鵝症
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3em041_jc_000-d2.d5d7
+    span:
+    - body
+    - 2734
+    - 2797
+  label: 單鵝症
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3em041_jc_000-d2.d5d8
+    span:
+    - body
+    - 2797
+    - 2890
+  label: 雙纏症
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3em041_jc_000-d2.d5d9
+    span:
+    - body
+    - 2890
+    - 2982
+  label: 單纏症
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3em041_jc_000-d2.d5d10
+    span:
+    - body
+    - 2982
+    - 3055
+  label: 懸蜞症
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3em041_jc_000-d2.d5d11
+    span:
+    - body
+    - 3055
+    - 3159
+  label: 合架症
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3em041_jc_000-d2.d5d12
+    span:
+    - body
+    - 3159
+    - 3250
+  label: 壙墶症
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3em041_jc_000-d2.d5d13
+    span:
+    - body
+    - 3250
+    - 3318
+  label: 瘰癧症
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3em041_jc_000-d2.d5d14
+    span:
+    - body
+    - 3318
+    - 3392
+  label: 乘枕症
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3em041_jc_000-d2.d5d15
+    span:
+    - body
+    - 3392
+    - 3474
+  label: 乘顎症
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3em041_jc_000-d2.d5d16
+    span:
+    - body
+    - 3474
+    - 3602
+  label: 鬥底症
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3em041_jc_000-d2.d5d17
+    span:
+    - body
+    - 3602
+    - 3665
+  label: 必胲症
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3em041_jc_000-d2.d5d18
+    span:
+    - body
+    - 3665
+    - 3746
+  label: 聯珠症
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3em041_jc_000-d2.d5d19
+    span:
+    - body
+    - 3746
+    - 3780
+  label: 破頭症
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3em041_jc_000-d2.d5d20
+    span:
+    - body
+    - 3780
+    - 3846
+  label: 掩頭症
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3em041_jc_000-d2.d5d21
+    span:
+    - body
+    - 3846
+    - 3904
+  label: 大頭症
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3em041_jc_000-d2.d5d22
+    span:
+    - body
+    - 3904
+    - 3943
+  label: 穿額症
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3em041_jc_000-d2.d5d23
+    span:
+    - body
+    - 3943
+    - 3970
+  label: 魚鱗症
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3em041_jc_000-d2.d5d24
+    span:
+    - body
+    - 3970
+    - 4008
+  label: 玉筍症
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3em041_jc_000-d2.d5d25
+    span:
+    - body
+    - 4008
+    - 4064
+  label: 蓮花症
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3em041_jc_000-d2.d5d26
+    span:
+    - body
+    - 4064
+    - 4120
+  label: 梅花症
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3em041_jc_000-d2.d5d27
+    span:
+    - body
+    - 4120
+    - 4163
+  label: 黑疔症
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3em041_jc_000-d2.d5d28
+    span:
+    - body
+    - 4163
+    - 4236
+  label: 搶食症
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3em041_jc_000-d2.d5d29
+    span:
+    - body
+    - 4236
+    - 4294
+  label: 木舌症
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3em041_jc_000-d2.d5d30
+    span:
+    - body
+    - 4294
+    - 4361
+  label: 重舌症
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3em041_jc_000-d2.d5d31
+    span:
+    - body
+    - 4361
+    - 4436
+  label: 痗舌症
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3em041_jc_000-d2.d5d32
+    span:
+    - body
+    - 4436
+    - 4491
+  label: 回舌症
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3em041_jc_000-d2.d5d33
+    span:
+    - body
+    - 4491
+    - 4539
+  label: 舌癰症
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3em041_jc_000-d2.d5d34
+    span:
+    - body
+    - 4539
+    - 4627
+  label: 驢嘴症
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3em041_jc_000-d2.d5d35
+    span:
+    - body
+    - 4627
+    - 4689
+  label: 魚口症
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3em041_jc_000-d2.d5d36
+    span:
+    - body
+    - 4689
+    - 4734
+  label: 喉癰症
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3em041_jc_000-d2.d5d37
+    span:
+    - body
+    - 4734
+    - 4782
+  label: 喉疔症
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3em041_jc_000-d2.d5d38
+    span:
+    - body
+    - 4782
+    - 4838
+  label: 喉箭症
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3em041_jc_000-d2.d5d39
+    span:
+    - body
+    - 4838
+    - 4881
+  label: 喉痹症
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3em041_jc_000-d2.d5d40
+    span:
+    - body
+    - 4881
+    - 4917
+  label: 剪喉症
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3em041_jc_000-d2.d5d41
+    span:
+    - body
+    - 4917
+    - 4968
+  label: 肥豬症
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3em041_jc_000-d2.d5d42
+    span:
+    - body
+    - 4968
+    - 5079
+  label: 鵝口症
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3em041_jc_000-d2.d5d43
+    span:
+    - body
+    - 5079
+    - 5203
+  label: 胎毒症
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3em041_jc_000-d2.d5d44
+    span:
+    - body
+    - 5203
+    - 5309
+  label: 鎖子症
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3em041_jc_000-d2.d5d45
+    span:
+    - body
+    - 5309
+    - 5502
+  label: 論症治法
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3em041_jc_000-d2.d5d46
+    span:
+    - body
+    - 5502
+    - 5632
+  label: 辨陽喉症訣
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3em041_jc_000-d2.d5d47
+    span:
+    - body
+    - 5632
+    - 5749
+  label: 辨陰喉症訣
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3em041_jc_000-d2.d5d48
+    span:
+    - body
+    - 5749
+    - 5888
+  label: 看喉中辨臟色訣
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3em041_jc_000-d2.d5d49
+    span:
+    - body
+    - 5888
+    - 5991
+  label: 辨毒攻臟訣
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3em041_jc_000-d2.d5d50
+    span:
+    - body
+    - 5991
+    - 6180
+  label: 認死症歌訣
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3em041_jc_000-d2.d5d51
+    span:
+    - body
+    - 6180
+    - 6372
+  label: 治咽喉辨論
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3em041_jc_000-d2.d5d52
+    span:
+    - body
+    - 6372
+    - 8418
+  label: 論喉症治法
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3em041_jc_000-d2.d5d53
+    span:
+    - body
+    - 8418
+    - 8760
+  label: 論分經治喉症藥性
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3em041_jc_000-d2.d5d54
+    span:
+    - body
+    - 8760
+    - 13470
+  label: 治喉用藥變化歌訣
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3em041_jc_000-d3.h1s1
+    span:
+    - body
+    - 13470
+    - 15387
+  label: 口部
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em041_jc_000-d3d2
+    span:
+    - body
+    - 13472
+    - 13495
+  label: 治口舌生瘡
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em041_jc_000-d3d3
+    span:
+    - body
+    - 13495
+    - 13521
+  label: 又方
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em041_jc_000-d3d4
+    span:
+    - body
+    - 13521
+    - 13577
+  label: 又方
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em041_jc_000-d3d5
+    span:
+    - body
+    - 13577
+    - 13630
+  label: 口唇生瘡日久不愈
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em041_jc_000-d3d6
+    span:
+    - body
+    - 13630
+    - 13659
+  label: 舌無故出血方
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em041_jc_000-d3d7
+    span:
+    - body
+    - 13659
+    - 13688
+  label: 舌長數寸方
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em041_jc_000-d3d8
+    span:
+    - body
+    - 13688
+    - 13725
+  label: 舌瞠硬大閉咽喉
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em041_jc_000-d3d9
+    span:
+    - body
+    - 13725
+    - 13740
+  label: 又方
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em041_jc_000-d3d10
+    span:
+    - body
+    - 13740
+    - 13762
+  label: 治羊鬚瘡奇效方
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em041_jc_000-d3d11
+    span:
+    - body
+    - 13762
+    - 13782
+  label: 又方
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em041_jc_000-d3d12
+    span:
+    - body
+    - 13782
+    - 13832
+  label: 加味甘桔湯
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em041_jc_000-d3d13
+    span:
+    - body
+    - 13832
+    - 13897
+  label: 紫袍散
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em041_jc_000-d3d14
+    span:
+    - body
+    - 13897
+    - 13935
+  label: 甘桔湯
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em041_jc_000-d3d15
+    span:
+    - body
+    - 13935
+    - 13990
+  label: 玉龍散
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em041_jc_000-d3d16
+    span:
+    - body
+    - 13990
+    - 14062
+  label: 金鑰匙
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em041_jc_000-d3d17
+    span:
+    - body
+    - 14062
+    - 14079
+  label: 頰車開不能合
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em041_jc_000-d3d18
+    span:
+    - body
+    - 14079
+    - 14089
+  label: 下頰落
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em041_jc_000-d3d19
+    span:
+    - body
+    - 14089
+    - 14139
+  label: 舌蕈
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em041_jc_000-d3d20
+    span:
+    - body
+    - 14139
+    - 14195
+  label: 上疳瘡口中爛方
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em041_jc_000-d3d21
+    span:
+    - body
+    - 14195
+    - 14270
+  label: 上疳方
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em041_jc_000-d3d22
+    span:
+    - body
+    - 14270
+    - 14347
+  label: 消瘰癧丸奇效方
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em041_jc_000-d3d23
+    span:
+    - body
+    - 14347
+    - 14358
+  label: 又方
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em041_jc_000-d3d24
+    span:
+    - body
+    - 14358
+    - 14383
+  label: 舌下腫痛
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em041_jc_000-d3d25
+    span:
+    - body
+    - 14383
+    - 14416
+  label: 舌下痰包
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em041_jc_000-d3d26
+    span:
+    - body
+    - 14416
+    - 14442
+  label: 小舌生紅泡子與喉症不同
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em041_jc_000-d3d27
+    span:
+    - body
+    - 14442
+    - 14586
+  label: 補斷舌法
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em041_jc_000-d3d28
+    span:
+    - body
+    - 14586
+    - 14602
+  label: 又方
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em041_jc_000-d3d29
+    span:
+    - body
+    - 14602
+    - 14652
+  label: 又方
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em041_jc_000-d3d30
+    span:
+    - body
+    - 14652
+    - 14675
+  label: 治舌下腫痛欲死
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em041_jc_000-d3d31
+    span:
+    - body
+    - 14675
+    - 14702
+  label: 又方
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em041_jc_000-d3d32
+    span:
+    - body
+    - 14702
+    - 14722
+  label: 重舌鵝喉
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em041_jc_000-d3d33
+    span:
+    - body
+    - 14722
+    - 14762
+  label: 喉風舌大如脬不急救即死
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em041_jc_000-d3d34
+    span:
+    - body
+    - 14762
+    - 14805
+  label: 舌腫四方
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em041_jc_000-d3d35
+    span:
+    - body
+    - 14805
+    - 14815
+  label: 又方
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em041_jc_000-d3d36
+    span:
+    - body
+    - 14815
+    - 14825
+  label: 又方
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em041_jc_000-d3d37
+    span:
+    - body
+    - 14825
+    - 14838
+  label: 又方
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em041_jc_000-d3d38
+    span:
+    - body
+    - 14838
+    - 14900
+  label: 喉疔
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em041_jc_000-d3d39
+    span:
+    - body
+    - 14900
+    - 14922
+  label: 舌忽縮入
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em041_jc_000-d3d40
+    span:
+    - body
+    - 14922
+    - 14957
+  label: 舌硬生衣
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em041_jc_000-d3d41
+    span:
+    - body
+    - 14957
+    - 14989
+  label: 舌下重生小舌
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em041_jc_000-d3d42
+    span:
+    - body
+    - 14989
+    - 15028
+  label: 又方
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em041_jc_000-d3d43
+    span:
+    - body
+    - 15028
+    - 15115
+  label: 木舌
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em041_jc_000-d3d44
+    span:
+    - body
+    - 15115
+    - 15129
+  label: 又方
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em041_jc_000-d3d45
+    span:
+    - body
+    - 15129
+    - 15141
+  label: 又方
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em041_jc_000-d3d46
+    span:
+    - body
+    - 15141
+    - 15166
+  label: 舌忽腫大腫硬
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em041_jc_000-d3d47
+    span:
+    - body
+    - 15166
+    - 15309
+  label: 舌上生菌
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em041_jc_000-d3d48
+    span:
+    - body
+    - 15309
+    - 15342
+  label: 舌腫破爛
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em041_jc_000-d3d49
+    span:
+    - body
+    - 15342
+    - 15367
+  label: 重舌脹腫
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em041_jc_000-d3d50
+    span:
+    - body
+    - 15367
+    - 15387
+  label: 又方
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em041_jc_000-d4.h1s1
+    span:
+    - body
+    - 15387
+    - 17870
+  label: 牙部
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em041_jc_000-d4d2
+    span:
+    - body
+    - 15389
+    - 15434
+  label: 牙癰
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em041_jc_000-d4d3
+    span:
+    - body
+    - 15434
+    - 15488
+  label: 牙疔
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em041_jc_000-d4d4
+    span:
+    - body
+    - 15488
+    - 16769
+  label: 牙疳
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em041_jc_000-d4d5
+    span:
+    - body
+    - 16769
+    - 16901
+  label: 附骨鯁符咒
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em041_jc_000-d4d6
+    span:
+    - body
+    - 16901
+    - 17655
+  label: 附治鴉片煙飲奇效方
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em041_jc_000-d4d7
+    span:
+    - body
+    - 17655
+    - 17870
+  label: 附急救服毒良方
+  type: section
+  level: 2
+hash: sha256:bebd13b5e93b7bee3d3261906c832d032dc27d5bf43d4471019bbd27ec4ef668
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
