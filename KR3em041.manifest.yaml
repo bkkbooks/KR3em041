@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3em041/v1
 canonical_location: https://kanripo.org/bkk/KR3em041/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 喉舌備要秘旨
   identifiers:
@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3em041_000.yaml, hash: 'sha256:d70eaddc6ca65abf331d140616f344e51b79796ecc7fbc13d570c57464039082'}
+  - {seq: 0, filename: KR3em041_000.yaml, hash: 'sha256:bb39b70d13d545294b6d00279807fcec647aedbe14f0ac77a7cd128c1e61f6a0'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3em041_000.markers.yaml, hash: 'sha256:44248d2b68bc47b38923b14c037a81bcf8dd9bb89ff707458b1faada4d0b05a6'}
+  - {seq: 0, role: markers, filename: assets/KR3em041_000.markers.yaml, hash: 'sha256:5e9cd01eb291d0fe88bff69aaf2323e4cd6e81dc235f71fa71fc63fb39f5de77'}
 table_of_contents:
 - ref:
     seq: 0
@@ -1171,4 +1171,7 @@ table_of_contents:
   label: 附急救服毒良方
   type: section
   level: 2
-hash: sha256:5f3173fbf8616f0cb1e907b918d020d4d5170bc7d01fc2060e03538dcfd192ad
+hash: sha256:dcba5b0e823c33bb8378497e589d143606e4589bc0732a939da47b9a36133e43
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
