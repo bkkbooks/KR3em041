@@ -19,7 +19,7 @@ assets:
   parts:
   - {seq: 0, filename: KR3em041_000-jc.yaml, hash: 'sha256:d70eaddc6ca65abf331d140616f344e51b79796ecc7fbc13d570c57464039082'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3em041_000-jc.markers.yaml, hash: 'sha256:6b0d5092afe649e8f18b37a15273f540681873776d153caeddcff326a09eb083'}
+  - {seq: 0, role: markers, filename: assets/KR3em041_000-jc.markers.yaml, hash: 'sha256:93d4042633e9b2aa82087dca55001b08e08868af01d1f862d5d81415adfa2e28'}
 table_of_contents:
 - ref:
     seq: 0
@@ -1171,4 +1171,4 @@ table_of_contents:
   label: 附急救服毒良方
   type: section
   level: 2
-hash: sha256:5b0729c16b438c58e728b0344b4f387c2914193c37f4f6e86b0598973dff3a51
+hash: sha256:178b2bd639cff22725abe5bc927a25e1c4ae6f7d007d55b15c75f070e84cc6f8
